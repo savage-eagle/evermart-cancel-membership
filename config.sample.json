@@ -1,0 +1,9 @@
+{
+	"telegram_bot": {
+		"api_id": "",
+		"api_hash": "",
+		"api_token": ""
+	},
+	
+	"verify_url": "http://localhost:8000"
+}
